@@ -3,4 +3,7 @@ René Descartes (31 March 1596 – 11 February 1650) was a French polymath, acti
 Descartes "invented the convention of representing unknowns in equations by x, y, and z, and knowns by a, b, and c". He also "pioneered the standard notation" that uses superscripts to show the powers or exponents; for example, the 2 used in x2 to indicate x squared.
 
 One of Descartes's most enduring legacies was his development – together with Pierre de Fermat – of Cartesian or analytic geometry, which uses algebra to describe geometry; the Cartesian coordinate system is named after him. Descartes' work on geometry was written to demonstrate its application to correct reasoning he discussed in the Discourse on the Method, which consists of reasoning based on self-evident principles. He was the first to assign a fundamental place for algebra in the system of knowledge, using it as a method to automate or mechanize reasoning, particularly about abstract, unknown quantities.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7cbcace49ec467fc0cae20e6b28140a491fd89f0
